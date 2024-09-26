@@ -21,9 +21,6 @@ import hmac
 # 设置api-key,注意试用期只有3个月有效期
 api_key = 'JnpWaymbVKZs'
 API_URL = 'https://api.bitget.com'
-API_SECRET_KEY = '91fe12942f61dee99e8b345c37c288b7e84ad89baab72fa79933f1a6509d0d6a'
-API_KEY = 'bg_ad11f53fafe5c53fe72db05cb4d22e02'
-PASSPHRASE = 'HBLww130130130'
 btc_order_value = 400
 btc_up_per = 1.015
 symbol_list = ['ETHUSDT']
